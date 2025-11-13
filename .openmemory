@@ -1,0 +1,3 @@
+GLOBAL_DIR=/home/runner/.openmemory-global
+PROJECT_NAME=bring-your-own-text-BYOT
+OPENMEMORY_URL=http://localhost:8080
